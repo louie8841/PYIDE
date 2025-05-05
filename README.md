@@ -10,5 +10,5 @@
 3. Runthe code
 
 ## Changing the name
-1. go to line
+1. Go to line7
 2. Change the text "PYIDE"
